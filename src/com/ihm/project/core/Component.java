@@ -62,6 +62,13 @@ public class Component {
 		this.doors.add(door);
 	}
 	
+	public Position getPosCenter(){
+		double xCenter = this.getPosition().getPosX()+this.getSize().getWidth()/2;
+		double yCenter = this.getPosition().getPosY()+this.getSize().getHeight()/2;
+		
+		return new Position(xCenter, yCenter);
+	}
+	
 	public void removeDoor(Door door){
 		this.doors.remove(door);
 	}

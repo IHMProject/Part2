@@ -6,18 +6,18 @@
             <door posX="114" posY="25" width="1.5" height="3" state="0"/>
          </doors>
          <corridors>
-            <corridor name="C001" posX="119" posY="119" width="492" height="50" state="0">
+            <corridor name="C001" posX="119" posY="144" width="492" height="24" state="0">
                <classrooms>
                   <classroom name="039" posX="607" posY="172" width="78" height="135" state="0"/>
 				  <classroom name="33.1" posX="121" posY="166" width="40" height="116" state="0"/>
-                  <classroom name="034" posX="84" posY="7" width="155" height="109" state="1"/>
-                  <classroom name="035" posX="166" posY="166" width="158" height="109" state="-1"/>
-                  <classroom name="35.1" posX="324" posY="166" width="80" height="109" state="0"/>
-                  <classroom name="036" posX="242" posY="7" width="121" height="109" state="0"/>
-                  <classroom name="037" posX="405" posY="166" width="38" height="109" state="0"/>
-                  <classroom name="37.1" posX="446" posY="166" width="116" height="109" state="0"/>
-                  <classroom name="038" posX="364" posY="7" width="121" height="109" state="0"/>
-                  <classroom name="38.1" posX="485" posY="7" width="77" height="109" state="0"/>
+                  <classroom name="034" posX="84" posY="7" width="155" height="134" state="1"/>
+                  <classroom name="035" posX="166" posY="166" width="158" height="134" state="-1"/>
+                  <classroom name="35.1" posX="324" posY="166" width="80" height="134" state="0"/>
+                  <classroom name="036" posX="242" posY="7" width="121" height="134" state="0"/>
+                  <classroom name="037" posX="405" posY="166" width="38" height="134" state="0"/>
+                  <classroom name="37.1" posX="446" posY="166" width="116" height="134" state="0"/>
+                  <classroom name="038" posX="364" posY="7" width="121" height="134" state="0"/>
+                  <classroom name="38.1" posX="485" posY="7" width="77" height="134" state="0"/>
                </classrooms>
             </corridor>
             <corridor name="C004" posX="7" posY="144" width="114" height="24" state="1">
